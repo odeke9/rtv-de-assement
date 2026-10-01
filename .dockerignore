@@ -1,0 +1,11 @@
+.venv
+.git
+.idea
+**/__pycache__
+**/.DS_Store
+.pytest_cache
+Assessment
+lake
+logs
+warehouse
+scratch

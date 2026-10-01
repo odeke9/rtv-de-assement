@@ -216,3 +216,15 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+.idea
+
+# pipeline outputs (contain confidential survey data)
+lake/
+.DS_Store
+scratch
+logs
+# confidential source data
+Assessment/data/*.csv
+Assessment/data/*.html
+Assessment/data/.~lock*
